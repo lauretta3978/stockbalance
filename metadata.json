@@ -1,0 +1,6 @@
+{
+  "name": "Stock Balance Reconciler & OpenCart VLOOKUP",
+  "description": "Enterprise inventory reconciliation engine that synchronizes Autocount physical stock with OpenCart catalogs via strict ISBN VLOOKUP matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
